@@ -4,12 +4,16 @@
 This is an assignment for my Game Technology class. I was to fork this repository to my own Github account and answer questions requarding the all the different files along with it. I have done so down below by changing this README file. 
 
 - Open main01.py. Before running it, what do you expect this program to do?
+
       It will display the message "Greetings!" and ask me to input my favorite color, it doesn't look like it will do anything with my input. 
   - Now right click on the main1.py window and select “Run Python File in Terminal”. Click in the bottom panel, and answer the question. Describe what happened.
+  
       Nothing happened after I answer the question.  
   - What do you think the program did with what you typed in answer to the question?
+  
       It didn't do anything with it. 
 - Open main02.py. Before running it, describe how this is different than main01.py.
+
       It stores the input in a vairable called "color" and it has a line to print said vairable. 
   - What do you think the color = input() will do?
       It will store what I input behind the varaible "color" and the next line will display it.
